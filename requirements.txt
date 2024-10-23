@@ -12,5 +12,5 @@ tiktoken
 tabulate
 python-dotenv
 langchain-google-genai
-
+loguru 
 -e .
